@@ -1,0 +1,6 @@
+a=input("Enter something: ")
+print("You entered:", a)
+print(type(a))
+b=int(input("Enter something else: "))
+print("You entered:", b)
+print(type(b))
